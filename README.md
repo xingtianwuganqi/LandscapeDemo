@@ -1,5 +1,8 @@
 # LandscapeDemo
 Swift 支持某个页面横竖屏与强制横屏
+
+觉得有帮助的同学可以点个star
+
 首先需要清晰几个概念
 
 * UIDeviceOrientation 设备的物理方向 
