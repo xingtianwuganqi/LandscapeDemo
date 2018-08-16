@@ -1,0 +1,86 @@
+PODS:
+  - Alamofire (4.7.1)
+  - Differentiator (3.0.2)
+  - HandyJSON (4.1.1)
+  - Kingfisher (4.7.0)
+  - LLCycleScrollView (1.4.6):
+    - Kingfisher
+  - Moya (10.0.2):
+    - Moya/Core (= 10.0.2)
+  - Moya/Core (10.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (10.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - MoyaSugar (1.1.0):
+    - MoyaSugar/Core (= 1.1.0)
+  - MoyaSugar/Core (1.1.0):
+    - Moya (>= 10.0.0)
+  - ObjectMapper (3.1.0)
+  - ReactorKit (1.1.0):
+    - RxSwift (>= 4.0.0)
+  - Result (3.2.4)
+  - ReusableKit/Core (2.0.1)
+  - ReusableKit/RxSwift (2.0.1):
+    - ReusableKit/Core
+    - RxCocoa (>= 4.0.0-beta.0)
+    - RxSwift (>= 4.0.0-beta.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - RxViewController (0.3.0):
+    - RxCocoa (>= 4.0.0)
+    - RxSwift (>= 4.0.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+  - URLNavigator (2.0.4)
+
+DEPENDENCIES:
+  - HandyJSON (~> 4.1.1)
+  - LLCycleScrollView
+  - Moya/RxSwift (~> 10.0.1)
+  - MoyaSugar (~> 1.1.0)
+  - ObjectMapper
+  - ReactorKit
+  - ReusableKit/RxSwift
+  - RxCocoa (~> 4.0)
+  - RxDataSources
+  - RxSwift (~> 4.0)
+  - RxViewController
+  - SDWebImage (~> 4.0)
+  - SnapKit
+  - Then
+  - URLNavigator
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  HandyJSON: 3a3de917c4118767ffe41c29b5acba23409649f4
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  LLCycleScrollView: 2f309d229937b755b3ecc41f39caa8b27bd86fa9
+  Moya: 2b0531a9fef318e0bc484030c3db1e6f279ccb66
+  MoyaSugar: b64e677454f1a4b3745e1c5b16e1c9d1b109d04f
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  ReactorKit: 26470a9eff5094fae909a30af0be7cd0cf8a182d
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  ReusableKit: 11b5bde14553a35bcf3979412dbfd1e690392f14
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  RxViewController: 203510707e73dd95f147f0c387710e3ec80d2b0f
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+  URLNavigator: af5582fbbb3586c958be16835d799bfdb23a4793
+
+PODFILE CHECKSUM: 6e6750ad295d2f755ee3af3ea692b592e2a4ecc6
+
+COCOAPODS: 1.3.1

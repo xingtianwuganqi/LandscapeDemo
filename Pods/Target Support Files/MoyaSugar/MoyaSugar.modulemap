@@ -1,0 +1,6 @@
+framework module MoyaSugar {
+  umbrella header "MoyaSugar-umbrella.h"
+
+  export *
+  module * { export * }
+}
