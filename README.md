@@ -198,7 +198,7 @@ deinit {
 ## 强制横屏
 
 ### 1.关闭 General 中的 Device orientation 中的 landscapeLeft 与 landscapeRight
-![avatar](/Users/jingjun/Documents/md文件/mdImage/swift0.png)
+![avatar](https://upload-images.jianshu.io/upload_images/8042403-a4de37a2f441a945.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/286)
 
 ### 2.在AppDelegate中设置app支持的方法
 这里要设置一个全局变量，判断支持的方向，这里支持一个方向
